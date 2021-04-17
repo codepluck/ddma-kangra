@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bootstrap-vue-argon-dashboard/.idea/bootstrap-vue-argon-dashboard.iml" filepath="$PROJECT_DIR$/../bootstrap-vue-argon-dashboard/.idea/bootstrap-vue-argon-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ddma-kangra.iml" filepath="$PROJECT_DIR$/.idea/ddma-kangra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projects/kangra-ddma/.idea/kangra-ddma.iml" filepath="$PROJECT_DIR$/../projects/kangra-ddma/.idea/kangra-ddma.iml" />
+    </modules>
+  </component>
+</project>
